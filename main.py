@@ -1,4 +1,4 @@
-from aulas_oo.soma import Soma
+from soma import Soma
 
 a = 3
 b = 4
